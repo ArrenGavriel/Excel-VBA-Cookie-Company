@@ -7,6 +7,7 @@ Important takeaways in this project:
 2. If statement
 3. For loop
 4. Do-while loop
+<br>
 Feel free to fetch and modify :)
 
 ### SOURCE
